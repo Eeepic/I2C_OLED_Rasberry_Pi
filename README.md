@@ -19,5 +19,3 @@ Please, all the credits, goes to the respective authors, i am simply porting the
 
 Thank you very much.
 
-
-Everyone is free to use and copy this code for their own use.
